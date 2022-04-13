@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RZGz3l4f9d01ApopFnSPvAWwYCLgu8AqhXgd38pWUaNh2aFVjcXtgMOGslsci9Ppvb4GL7ylU8BJQnRd0SQzIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghust\\OneDrive\\C#\\BatalhaNaval\\BatalhaNaval.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghust\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\ghust\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

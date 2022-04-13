@@ -1,0 +1,28 @@
+BatalhaNavalGame game = new BatalhaNavalGame();
+game.criarJogo("Gustavo", 10);
+
+//game.posicionarUnidadesManual(game.jogador1, ['A01H', 'A02H', 'A03H', 'A04H', 'A05H', 'A06H', 'A07H', 'A08H', 'A09H', 'A10H']);
+game.posicionarUnidadesAuto(game.jogador1);
+game.posicionarUnidadesAuto(game.jogador2);
+//game.jogador1.dispararSimples(['A01', 'A02', 'A03']);
+//game.jogador1.dispararEspecial('G04');
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+game.jogador1.dispararSimplesAuto();
+//game.jogador2.dispararSimples(['A01', 'B01', 'C01']);
+//game.jogador2.dispararEspecial('C07');
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador2.dispararSimplesAuto();
+game.jogador1.campo.mostrar();
+game.jogador2.campo.mostrar();

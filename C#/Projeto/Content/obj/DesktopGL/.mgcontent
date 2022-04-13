@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Data/score.xml</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font1.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font2.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font3.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font4.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font5.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Fonts/Font6.spritefont</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/botao1.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/botao2.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/contratorpedeiro.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/explosao.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/fumaca.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/mute1.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/mute2.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/navio_tanque.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/porta_avioes.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/posicao1.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/posicao2.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/posicao3.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/posicao4.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/posicao5.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/submarino.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/tela1.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/tela2.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/tela3.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/tela4.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/tela6.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/text_input.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Images/voltar_menu.png</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/agua.wav</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/click.wav</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/derrota.mp3</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/erro.wav</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/explosao.wav</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/game.mp3</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/tecla.wav</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/theme.mp3</File>
+    <File>C:/Users/ghust/OneDrive/C#/BatalhaNaval/Content/Sounds/vitoria.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
